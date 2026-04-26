@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais da web:
 
 
 Você pode acessar o projeto rodando ao vivo através do link abaixo:
-👉 **[Clique aqui para ver o site no ar!]((https://hellenlunardi.github.io/Sabor-na-chapa-how/))**
+👉 **[Clique aqui para ver o site no ar!](https://hellenlunardi.github.io/Sabor-na-chapa-how/)**
 
 👨‍💻 Grupo de Desenvolvimento
 
